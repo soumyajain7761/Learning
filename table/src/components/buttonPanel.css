@@ -1,0 +1,27 @@
+.ui-delete-icon-image{
+    background-image: url('../images/ic_delete_default.svg') no-repeat;
+}
+
+.ui-copy-icon-image{
+    background: url('../images/ic_copy_default.svg') no-repeat;
+}
+
+.ui-inputMap-icon-image{
+    background: url('../images/ic_manageInputMap_default.svg') no-repeat;
+}
+
+.ui-recCount-icon-image{
+    background: url('../images/ic_get_record_count_default.svg') no-repeat;
+}
+
+.ui-createNamedVer-icon-image{
+    background: url('../images/ic_createnamedversion_default.svg') no-repeat;
+}
+
+.ui-expoRec-icon-image{
+    background: url('../images/ic_export_default.svg') no-repeat;
+}
+
+.ui-showUsage-icon-image{
+    background: url('../images/ic_show_usage_default.svg') no-repeat;
+}
